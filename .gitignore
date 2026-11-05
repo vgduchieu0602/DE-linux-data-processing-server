@@ -1,0 +1,4 @@
+/data/incoming/*
+/data/processing/*
+/data/processed/*
+/data/failed/*
